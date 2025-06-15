@@ -1,0 +1,14 @@
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> import re
+>>> pattern = r"USER \((\w+)\)$"
+>>> line ="Jul 6 18:30:33 node01 CRON[31544]: USER (service_account)"
+>>> result = re.search(pattern, line)
+>>> print(result[1])
+service_account
+>>> import re
+>>> pattern = r"USER\((\w+)\)$"
+>>> line = "Jul 6 14:03:01 computer.name CRON[29440]: USER (naughty_user),Jul 6 15:10:45 server.local CRON[30123]: USER (admin),Jul 6 16:20:00 desktop01 CRON[30256]: USER (john),Jul 6 17:05:15 laptop42 CRON[30987]: USER (backup_bot),Jul 6 18:30:33 node01 CRON[31544]: USER (service_account),Jul 6 19:45:22 compute.local CRON[32018]: USER (root),Jul 6 20:50:10 mainframe CRON[32455]: USER (scheduler),Jul 6 21:00:00 vm-host CRON[33001]: USER (cron_user),Jul 6 22:15:55 host9 CRON[33490]: USER (data_collector),Jul 6 23:59:59 gateway CRON[34012]: USER (security_audit)"
+result = re.search(pattern, line)
+... print(result[1])
+... 

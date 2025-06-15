@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+
+import csv
+
+def read_employees('/home/student/data/emplyees.csv$
+employee_file = csv.DictReader(open('/home/student/$
+employee_list = []
+for data in employee_file:
+employee_list.append(dict(data))
+return employee_list
+
+employees_list = read_employees('/home/student/data$
+print(employee_list)
