@@ -1,0 +1,51 @@
+Database and Table Exploration
+-- Show all databases on the server
+SHOW DATABASES;
+
+-- Show all tables in the current database
+SHOW TABLES;
+
+-- Show the structure (columns) of a table
+DESCRIBE crypto;
+
+-- Show the CREATE TABLE statement for a table
+SHOW CREATE TABLE crypto;
+
+Viewing Data
+-- Show all data in the table
+SELECT * FROM crypto;
+
+-- Show only the first 5 rows
+SELECT * FROM crypto LIMIT 5;
+
+-- Show specific columns
+SELECT name, price FROM crypto;
+
+-- Show coins with price above $10,000
+SELECT * FROM crypto WHERE price > 10000;
+
+-- Show coins ordered by price, highest first
+SELECT * FROM crypto ORDER BY price DESC;
+
+-- Count how many rows are in the table
+SELECT COUNT(*) FROM crypto;
+
+Modifying Data
+-- Update the price of a coin (example: set Bitcoin's price to 9999)
+UPDATE crypto SET price = 9999 WHERE name = 'Bitcoin';
+
+-- Delete a row (example: remove Ethereum)
+DELETE FROM crypto WHERE name = 'Ethereum';
+
+-- Delete all data from the table (be careful!)
+DELETE FROM crypto;
+
+Altering Table Structure
+-- Add a new column
+ALTER TABLE crypto ADD COLUMN volume BIGINT;
+
+-- Remove a column
+ALTER TABLE crypto DROP COLUMN volume;
+
+-- Change a column's data type
+ALTER TABLE crypto MODIFY COLUMN price DECIMAL(20, 10);
