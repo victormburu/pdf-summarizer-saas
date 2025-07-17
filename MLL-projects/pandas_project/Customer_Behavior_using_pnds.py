@@ -19,19 +19,19 @@ total_spend = df.groupby("customer_id")["purchase_amount"].sum().reset_index()
 print(total_spend)
 
 #data handling by timestamp
-Days since last purchase 
+#Days since last purchase 
 df ["last_purchase_date"] = pd.to_datetime(df["last_purchase_date"])
 df["days_since_last"] = (pd.Timestamp.today() - df["last_purchase_date"]).dt.days
 print(df["last_purchase_date"])
 print(df["days_since_last"])
 
 #Value Counts(Most Popular Categories)
-Most popular product category
+#Most popular product category
 populer = df["product_category"].value_counts().head()
 print(populer)
 
 #Value Counts(least Popular Categories)
-least populer product category
+#least populer product category
 least_populer = df["product_category"].value_counts().tail(1) 
 least_populer = df["product_category"].value_counts().idxmin() 
 print(least_populer)
