@@ -1,4 +1,4 @@
-import requests
+cimport requests
 import mysql.connector
 
 #fetch api data
@@ -19,13 +19,10 @@ db_name = 'store_data'
 config = {
     'host': 'localhost',
     'port': '3306',
-<<<<<<< HEAD
     'user': 'root',
     'password': '1234567'
-=======
     'user': 'victor_user',
     'password': '328618@Vm'
->>>>>>> a8a3787 (all added)
 }
 
 conn = None

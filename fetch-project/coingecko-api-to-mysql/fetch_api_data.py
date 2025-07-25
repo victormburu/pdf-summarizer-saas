@@ -1,18 +1,15 @@
 import requests  # Import the requests library to make HTTP requests
 import mysql.connector  # Import the MySQL connector library to interact with MySQL databases
-<<<<<<< HEAD
 
 # Fetch data from API
 url = 'https://api.coingecko.com/api/v3/coins/markets'  # API endpoint for fetching cryptocurrency market data
 params = {'vs_currency': 'usd', 'order': 'market_cap_desc', 'per_page': 50}  # Parameters for the API request: USD currency, order by market cap, top 50 coins
-=======
 from datetime import datetime
 
 
 # Fetch data from API
 url = 'https://api.coingecko.com/api/v3/coins/markets'  # API endpoint for fetching cryptocurrency market data
 params = {'vs_currency': 'usd', 'order': 'market_cap_desc', 'per_page': 30}  # Parameters for the API request: USD currency, order by market cap, top 50 coins
->>>>>>> a8a3787 (all added)
 r = requests.get(url, params=params)  # Send GET request to the API with the specified parameters
 data = r.json()  # Parse the JSON response from the API into a Python object
 
@@ -20,13 +17,10 @@ db_name = 'crypto_data'  # Name of the database to use or create
 config = {
     'host': 'localhost',  # Database host (local machine)
     'port': '3306',  # MySQL default port
-<<<<<<< HEAD
     'user': 'root',  # MySQL username
     'password': '1234567'  # MySQL password
-=======
     'user': 'victor_user',  # MySQL username
     'password': '328618@Vm'  # MySQL password
->>>>>>> a8a3787 (all added)
 }
 
 conn = None  # Initialize connection variable
