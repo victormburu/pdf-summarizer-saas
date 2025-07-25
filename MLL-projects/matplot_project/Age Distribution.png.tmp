@@ -1,0 +1,5 @@
+home = C:\Users\Victor328\AppData\Local\Programs\Python\Python313
+include-system-site-packages = false
+version = 3.13.5
+executable = C:\Users\Victor328\AppData\Local\Programs\Python\Python313\python.exe
+command = C:\Users\Victor328\AppData\Local\Programs\Python\Python313\python.exe -m venv c:\Users\Victor328\OneDrive\Documents\GitHub\MLL-projects\.venv

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Database and Table Exploration
+=======
+deswDatabase and Table Exploration
+>>>>>>> a8a3787 (all added)
 -- Show all databases on the server
 SHOW DATABASES;
 
