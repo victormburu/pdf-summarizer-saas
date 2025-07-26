@@ -1,0 +1,14 @@
+
+import datetime
+
+def log_disabled_user(email):
+    with open("disabled_users.log", "a") as log_file:
+        log_file.write(f"[{datetime.datetime.now()}] Disabled login attempt: {email}\n")
+
+except Exception as e:
+    error_json = e.args[1]
+    if "USER_DISABLED" in error_json:
+        log_disabled_user(email)
+        st.error("Your account has been disabled. Contact the admin.")
+    else:
+        st.error("Login failed.")
