@@ -1,9 +1,17 @@
+import firebase_admin
+from firebase_admin import credentials, firestore, auth
 import pyrebase
 import os
 from dotenv import load_dotenv
 import streamlit as st
 
 load_dotenv()
+
+if not firebase_admin._apps:
+    credentials = credentials.Certificate("firebase_key.json")
+    firebase_admin.initialize_app(credentials)
+    
+db = firestore.client()
 
 firebaseconfig = {
     "apiKey": ("AIzaSyCLWkdQZHNf4c-a7jTj8vT1fhdiyGcFudo"),

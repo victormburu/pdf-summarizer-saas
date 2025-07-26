@@ -14,6 +14,7 @@ if "paid" not in st.session_state:
 if "page" not in st.session_state:
     st.session_state.page = "Login/Register"
 
+
 # --- SIDEBAR NAVIGATION ---
 st.sidebar.title("🔐 SmartDoc AI")
 page = st.sidebar.selectbox(
