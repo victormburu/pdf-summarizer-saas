@@ -1,13 +1,5 @@
 import smtplib
 from email.message import EmailMessage
-import streamlit as st
-
-# Dummy users list for demonstration
-users = [
-    {"email": "user1@example.com", "status": "active"},
-    {"email": "user2@example.com", "status": "disabled"},
-    {"email": "user3@example.com", "status": "active"},
-]
 
 def notify_admin_disabled_user(email):
     msg = EmailMessage()

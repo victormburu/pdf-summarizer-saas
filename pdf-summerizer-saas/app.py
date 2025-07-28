@@ -14,13 +14,12 @@ if "paid" not in st.session_state:
 if "page" not in st.session_state:
     st.session_state.page = "Login/Register"
 
-
 # --- SIDEBAR NAVIGATION ---
 st.sidebar.title("🔐 SmartDoc AI")
 page = st.sidebar.selectbox(
     "📚 Navigation",
-    ["Login/Register", "Summarize PDF"],
-    index=["Login/Register", "Summarize PDF"].index(st.session_state.page)
+    ["Login/Register", "Subscription","Summarize PDF"],
+    index=["Login/Register", "Subscription", "Summarize PDF"].index(st.session_state.page)
 )
 
 # --- LOGIN / SIGNUP PAGE ---
@@ -32,12 +31,22 @@ if page == "Login/Register":
         signup_form()
 
 # --- PDF DASHBOARD PAGE ---
-elif page == "Summarize PDF":
+elif st.session_state.page == "Subscription":
     if not st.session_state.user:
         st.warning("🔐 Please log in first.")
+        st.session_state.page = "Login/Register"
+        st.rerun()
     else:
-        if not st.session_state.paid:
-            st.warning("💳 Please complete payment to access the PDF summarizer.")
-            show_subscription()
-        else:
-            dashboard()
+        show_subscription()
+
+elif st.session_state.page == "Summarize PDF":
+    if not st.session_state.user:
+        st.warning("🔐 Please log in first.")
+        st.session_state.page = "Login/Register"
+        st.rerun()
+    elif not st.session_state.paid:
+        st.warning("💳 Please complete payment to access the PDF summarizer.")
+        st.session_state.page = "Subscription"
+        st.rerun()
+    else:
+        dashboard()
