@@ -1,0 +1,8 @@
+2025-08-18 21:42:31,032 - INFO - Starting outage monitor
+2025-08-18 21:42:41,024 - ERROR - Critical failure: RetryError[<Future at 0x248d11bf4d0 state=finished raised JSONDecodeError>]
+2025-08-18 21:43:15,647 - INFO - Starting outage monitor
+2025-08-18 21:43:54,681 - ERROR - Critical failure: RetryError[<Future at 0x1d9f1711f90 state=finished raised JSONDecodeError>]
+2025-08-18 21:59:04,905 - INFO - Starting outage monitor
+2025-08-18 21:59:44,930 - ERROR - Critical failure: RetryError[<Future at 0x221deaf1f90 state=finished raised JSONDecodeError>]
+2025-08-18 22:01:59,742 - INFO - Starting outage monitor
+2025-08-18 22:02:38,768 - ERROR - Critical failure: RetryError[<Future at 0x1ee3af21f90 state=finished raised JSONDecodeError>]

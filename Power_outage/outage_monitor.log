@@ -1,0 +1,69 @@
+2025-08-20 18:03:02,180 - INFO - Loaded 30 watch areas
+2025-08-20 18:03:02,181 - INFO - Starting outage monitor
+2025-08-20 18:03:03,427 - INFO - Found 8 relevant outages:
+2025-08-20 18:03:03,430 - INFO - - Roysambu on None at N/A
+2025-08-20 18:03:03,430 - INFO - - Roysambu on None at N/A
+2025-08-20 18:03:03,431 - INFO - - Makongeni on None at N/A
+2025-08-20 18:03:03,432 - INFO - - Makongeni on None at N/A
+2025-08-20 18:03:03,433 - INFO - - Zimmerman on None at N/A
+2025-08-20 18:03:03,434 - INFO - - Zimmerman on None at N/A
+2025-08-20 18:03:03,435 - INFO - - Roysambu on None at N/A
+2025-08-20 18:03:03,437 - INFO - - Roysambu on None at N/A
+2025-08-20 18:20:01,724 - INFO - Loaded 30 watch areas
+2025-08-20 18:20:01,724 - INFO - Starting outage monitor
+2025-08-20 18:20:03,385 - INFO - Found 8 relevant outages:
+2025-08-20 18:20:03,386 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:20:03,386 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:20:03,386 - INFO - - Makongeni from N/A to N/A (Unknown)
+2025-08-20 18:20:03,387 - INFO - - Makongeni from N/A to N/A (Unknown)
+2025-08-20 18:20:03,387 - INFO - - Zimmerman from N/A to N/A (Unknown)
+2025-08-20 18:20:03,388 - INFO - - Zimmerman from N/A to N/A (Unknown)
+2025-08-20 18:20:03,388 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:20:03,388 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:24:45,747 - INFO - Loaded 30 watch areas
+2025-08-20 18:24:45,748 - INFO - Starting outage monitor
+2025-08-20 18:24:47,040 - INFO - Found 8 relevant outages:
+2025-08-20 18:24:47,041 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:24:47,041 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:24:47,041 - INFO - - Makongeni from N/A to N/A (Unknown)
+2025-08-20 18:24:47,041 - INFO - - Makongeni from N/A to N/A (Unknown)
+2025-08-20 18:24:47,041 - INFO - - Zimmerman from N/A to N/A (Unknown)
+2025-08-20 18:24:47,041 - INFO - - Zimmerman from N/A to N/A (Unknown)
+2025-08-20 18:24:47,042 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:24:47,042 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 18:31:14,096 - INFO - Loaded 30 watch areas
+2025-08-20 18:31:55,171 - INFO - Loaded 30 watch areas
+2025-08-20 18:33:30,188 - INFO - Loaded 30 watch areas
+2025-08-20 18:37:17,043 - INFO - Loaded 30 watch areas
+2025-08-20 19:17:48,714 - INFO - Loaded 30 watch areas
+2025-08-20 19:17:48,715 - INFO - Starting outage monitor
+2025-08-20 19:17:50,177 - INFO - Found 8 relevant outages:
+2025-08-20 19:17:50,177 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 19:17:50,177 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 19:17:50,177 - INFO - - Makongeni from N/A to N/A (Unknown)
+2025-08-20 19:17:50,178 - INFO - - Makongeni from N/A to N/A (Unknown)
+2025-08-20 19:17:50,178 - INFO - - Zimmerman from N/A to N/A (Unknown)
+2025-08-20 19:17:50,178 - INFO - - Zimmerman from N/A to N/A (Unknown)
+2025-08-20 19:17:50,178 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 19:17:50,179 - INFO - - Roysambu from N/A to N/A (Unknown)
+2025-08-20 19:33:55,880 - INFO - Loaded 30 watch areas
+2025-08-20 19:33:55,882 - INFO - Starting outage monitor
+2025-08-20 19:33:59,440 - INFO - Found 3 outage events across 3 areas:
+2025-08-20 19:33:59,440 - INFO - • Roysambu - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:33:59,442 - INFO - • Makongeni - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:33:59,442 - INFO - • Zimmerman - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:33:59,442 - INFO - Summary: 3 outage events in 3 areas
+2025-08-20 19:34:46,039 - INFO - Loaded 30 watch areas
+2025-08-20 19:34:46,040 - INFO - Starting outage monitor
+2025-08-20 19:34:47,436 - INFO - Found 3 outage events across 3 areas:
+2025-08-20 19:34:47,441 - INFO - • Roysambu - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:34:47,450 - INFO - • Makongeni - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:34:47,454 - INFO - • Zimmerman - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:34:47,454 - INFO - Summary: 3 outage events in 3 areas
+2025-08-20 19:36:14,476 - INFO - Loaded 30 watch areas
+2025-08-20 19:36:14,477 - INFO - Starting outage monitor
+2025-08-20 19:36:15,700 - INFO - Found 3 outage events across 3 areas:
+2025-08-20 19:36:15,705 - INFO - • Roysambu - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:36:15,713 - INFO - • Makongeni - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:36:15,713 - INFO - • Zimmerman - Date: Unknown date Time: Unknown time - Reason: Unknown reason
+2025-08-20 19:36:15,714 - INFO - Summary: 3 outage events in 3 areas

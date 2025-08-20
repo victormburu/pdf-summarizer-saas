@@ -1,0 +1,3097 @@
+{
+  "timestamp": "2025-08-20T19:36:15.672504",
+  "data": [
+    {
+      "ots_id": 954,
+      "outage_date": "2025-08-20",
+      "outage_type": "SCHEDULED",
+      "area_id": 188,
+      "details": "KPLC has planned an outage in or close to your area Kamumbi on 2025-08-20 in the time 9.00 A.M. - 5.00 P.M.\n Details: Whole of Kamumbi & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1332,
+      "area": "Roysambu",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.21057605,
+          "lng": 36.87946566025626
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 825,
+          "message": "KPLC has planned an outage in or close to your area Jacaranda on 2025-07-29 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Part of Donholm Ph8, Shell Petrol station, Greenspan Mall, Happy Land Sch, Greenspan Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 954,
+          "message": "KPLC has planned an outage in or close to your area Kamumbi on 2025-08-20 in the time 9.00 A.M. - 5.00 P.M.\n Details: Whole of Kamumbi & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-08-20",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 954,
+      "outage_date": "2025-08-20",
+      "outage_type": "SCHEDULED",
+      "area_id": 188,
+      "details": "KPLC has planned an outage in or close to your area Kamumbi on 2025-08-20 in the time 9.00 A.M. - 5.00 P.M.\n Details: Whole of Kamumbi & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1332,
+      "area": "Roysambu",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.21057605,
+          "lng": 36.87946566025626
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 825,
+          "message": "KPLC has planned an outage in or close to your area Jacaranda on 2025-07-29 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Part of Donholm Ph8, Shell Petrol station, Greenspan Mall, Happy Land Sch, Greenspan Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 954,
+          "message": "KPLC has planned an outage in or close to your area Kamumbi on 2025-08-20 in the time 9.00 A.M. - 5.00 P.M.\n Details: Whole of Kamumbi & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-08-20",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 955,
+      "outage_date": "2025-08-20",
+      "outage_type": "SCHEDULED",
+      "area_id": 138,
+      "details": "KPLC has planned an outage in or close to your area Muthaiga on 2025-08-20 in the time 7.00 A.M. - 5.00 P.M.\n Details: Muthaiga, 6th Parklands, Legal Plaza, Mobil Plaza, Mwambao Rd, Part of Limuru Rd, Getrude Hosp & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1333,
+      "area": "Karura",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.21863225,
+          "lng": 36.809743365253894
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 955,
+          "message": "KPLC has planned an outage in or close to your area Muthaiga on 2025-08-20 in the time 7.00 A.M. - 5.00 P.M.\n Details: Muthaiga, 6th Parklands, Legal Plaza, Mobil Plaza, Mwambao Rd, Part of Limuru Rd, Getrude Hosp & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 138,
+          "outage_date": "2025-08-20",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 955,
+      "outage_date": "2025-08-20",
+      "outage_type": "SCHEDULED",
+      "area_id": 138,
+      "details": "KPLC has planned an outage in or close to your area Muthaiga on 2025-08-20 in the time 7.00 A.M. - 5.00 P.M.\n Details: Muthaiga, 6th Parklands, Legal Plaza, Mobil Plaza, Mwambao Rd, Part of Limuru Rd, Getrude Hosp & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1333,
+      "area": "Karura",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.21863225,
+          "lng": 36.809743365253894
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 955,
+          "message": "KPLC has planned an outage in or close to your area Muthaiga on 2025-08-20 in the time 7.00 A.M. - 5.00 P.M.\n Details: Muthaiga, 6th Parklands, Legal Plaza, Mobil Plaza, Mwambao Rd, Part of Limuru Rd, Getrude Hosp & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 138,
+          "outage_date": "2025-08-20",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 953,
+      "outage_date": "2025-08-19",
+      "outage_type": "SCHEDULED",
+      "area_id": 185,
+      "details": "KPLC has planned an outage in or close to your area Githurai on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Githurai 44 around Sonic, Zimmerman around Roysambu Pri Sch, Jacaranda Gardens & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1331,
+      "area": "Githurai",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.202836,
+          "lng": 36.9168615
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 934,
+          "message": "KPLC has planned an outage in or close to your area Bypass Kamakis, Greenspot, Versity Ville on 2025-08-14 in the time 9.00 A.M. - 5.00 P.M.\n Details: Gacharage Mkt, Part of Sunrise Est, Fairview, Clay Works, Bypass Logistics Exit 11, Kinstica, Bamboo Street, Quickmart 1 & 2, Navas SMMe, Galana Petrol, Shell Bypass, Bypass Corner, Part of Northland, Green Valley Est, Silicon Valley, Wisdom Towers & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 953,
+          "message": "KPLC has planned an outage in or close to your area Githurai on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Githurai 44 around Sonic, Zimmerman around Roysambu Pri Sch, Jacaranda Gardens & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-19",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 953,
+      "outage_date": "2025-08-19",
+      "outage_type": "SCHEDULED",
+      "area_id": 185,
+      "details": "KPLC has planned an outage in or close to your area Githurai on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Githurai 44 around Sonic, Zimmerman around Roysambu Pri Sch, Jacaranda Gardens & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1331,
+      "area": "Githurai",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.202836,
+          "lng": 36.9168615
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 934,
+          "message": "KPLC has planned an outage in or close to your area Bypass Kamakis, Greenspot, Versity Ville on 2025-08-14 in the time 9.00 A.M. - 5.00 P.M.\n Details: Gacharage Mkt, Part of Sunrise Est, Fairview, Clay Works, Bypass Logistics Exit 11, Kinstica, Bamboo Street, Quickmart 1 & 2, Navas SMMe, Galana Petrol, Shell Bypass, Bypass Corner, Part of Northland, Green Valley Est, Silicon Valley, Wisdom Towers & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 953,
+          "message": "KPLC has planned an outage in or close to your area Githurai on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Githurai 44 around Sonic, Zimmerman around Roysambu Pri Sch, Jacaranda Gardens & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-19",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 951,
+      "outage_date": "2025-08-18",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1329,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 951,
+      "outage_date": "2025-08-18",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1329,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 952,
+      "outage_date": "2025-08-18",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1330,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 952,
+      "outage_date": "2025-08-18",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1330,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "outage_area_message",
+      "matched_text": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 952,
+      "outage_date": "2025-08-18",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1330,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 917,
+      "outage_date": "2025-08-15",
+      "outage_type": "SCHEDULED",
+      "area_id": 152,
+      "details": "KPLC has planned an outage in or close to your area Pangani on 2025-08-15 in the time 9.00 A.M \u2013 5.00 P.M.\n Details: Pangani Shopping Centre, Chai Rd, Forest Rd & adjacent customers \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1279,
+      "area": "Pangani",
+      "constituency": "Starehe",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2648989,
+          "lng": 36.8372708
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 917,
+          "message": "KPLC has planned an outage in or close to your area Pangani on 2025-08-15 in the time 9.00 A.M \u2013 5.00 P.M.\n Details: Pangani Shopping Centre, Chai Rd, Forest Rd & adjacent customers \n https://nijulishe.co.ke/outages/map",
+          "area_id": 152,
+          "outage_date": "2025-08-15",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 917,
+      "outage_date": "2025-08-15",
+      "outage_type": "SCHEDULED",
+      "area_id": 152,
+      "details": "KPLC has planned an outage in or close to your area Pangani on 2025-08-15 in the time 9.00 A.M \u2013 5.00 P.M.\n Details: Pangani Shopping Centre, Chai Rd, Forest Rd & adjacent customers \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1279,
+      "area": "Pangani",
+      "constituency": "Starehe",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2648989,
+          "lng": 36.8372708
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 917,
+          "message": "KPLC has planned an outage in or close to your area Pangani on 2025-08-15 in the time 9.00 A.M \u2013 5.00 P.M.\n Details: Pangani Shopping Centre, Chai Rd, Forest Rd & adjacent customers \n https://nijulishe.co.ke/outages/map",
+          "area_id": 152,
+          "outage_date": "2025-08-15",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 916,
+      "outage_date": "2025-08-14",
+      "outage_type": "SCHEDULED",
+      "area_id": 163,
+      "details": "KPLC has planned an outage in or close to your area Jogoo Road on 2025-08-14 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Jogoo Td. from Likoni roundabout, Buru Buru Ph. 5, Makadara Law Courts, Uhuru Market and adjacent customers \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1278,
+      "area": "Makongeni",
+      "constituency": "Makadara",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2964326499999999,
+          "lng": 36.85141196863402
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 916,
+          "message": "KPLC has planned an outage in or close to your area Jogoo Road on 2025-08-14 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Jogoo Td. from Likoni roundabout, Buru Buru Ph. 5, Makadara Law Courts, Uhuru Market and adjacent customers \n https://nijulishe.co.ke/outages/map",
+          "area_id": 163,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 916,
+      "outage_date": "2025-08-14",
+      "outage_type": "SCHEDULED",
+      "area_id": 163,
+      "details": "KPLC has planned an outage in or close to your area Jogoo Road on 2025-08-14 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Jogoo Td. from Likoni roundabout, Buru Buru Ph. 5, Makadara Law Courts, Uhuru Market and adjacent customers \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1278,
+      "area": "Makongeni",
+      "constituency": "Makadara",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2964326499999999,
+          "lng": 36.85141196863402
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 916,
+          "message": "KPLC has planned an outage in or close to your area Jogoo Road on 2025-08-14 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Jogoo Td. from Likoni roundabout, Buru Buru Ph. 5, Makadara Law Courts, Uhuru Market and adjacent customers \n https://nijulishe.co.ke/outages/map",
+          "area_id": 163,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 918,
+      "outage_date": "2025-08-14",
+      "outage_type": "SCHEDULED",
+      "area_id": 168,
+      "details": "KPLC has planned an outage in or close to your area Spine Road on 2025-08-14 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Mama Lucy Hosp, Naivas S/Mkt, Nasra Est, Sosion Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1280,
+      "area": "Embakasi",
+      "constituency": "Embakasi East",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3076101,
+          "lng": 36.93417652550539
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 918,
+          "message": "KPLC has planned an outage in or close to your area Spine Road on 2025-08-14 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Mama Lucy Hosp, Naivas S/Mkt, Nasra Est, Sosion Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 168,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 918,
+      "outage_date": "2025-08-14",
+      "outage_type": "SCHEDULED",
+      "area_id": 168,
+      "details": "KPLC has planned an outage in or close to your area Spine Road on 2025-08-14 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Mama Lucy Hosp, Naivas S/Mkt, Nasra Est, Sosion Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1280,
+      "area": "Embakasi",
+      "constituency": "Embakasi East",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3076101,
+          "lng": 36.93417652550539
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 918,
+          "message": "KPLC has planned an outage in or close to your area Spine Road on 2025-08-14 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Mama Lucy Hosp, Naivas S/Mkt, Nasra Est, Sosion Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 168,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 934,
+      "outage_date": "2025-08-14",
+      "outage_type": "SCHEDULED",
+      "area_id": 185,
+      "details": "KPLC has planned an outage in or close to your area Bypass Kamakis, Greenspot, Versity Ville on 2025-08-14 in the time 9.00 A.M. - 5.00 P.M.\n Details: Gacharage Mkt, Part of Sunrise Est, Fairview, Clay Works, Bypass Logistics Exit 11, Kinstica, Bamboo Street, Quickmart 1 & 2, Navas SMMe, Galana Petrol, Shell Bypass, Bypass Corner, Part of Northland, Green Valley Est, Silicon Valley, Wisdom Towers & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1307,
+      "area": "Githurai",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.202836,
+          "lng": 36.9168615
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 934,
+          "message": "KPLC has planned an outage in or close to your area Bypass Kamakis, Greenspot, Versity Ville on 2025-08-14 in the time 9.00 A.M. - 5.00 P.M.\n Details: Gacharage Mkt, Part of Sunrise Est, Fairview, Clay Works, Bypass Logistics Exit 11, Kinstica, Bamboo Street, Quickmart 1 & 2, Navas SMMe, Galana Petrol, Shell Bypass, Bypass Corner, Part of Northland, Green Valley Est, Silicon Valley, Wisdom Towers & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 953,
+          "message": "KPLC has planned an outage in or close to your area Githurai on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Githurai 44 around Sonic, Zimmerman around Roysambu Pri Sch, Jacaranda Gardens & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-19",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 934,
+      "outage_date": "2025-08-14",
+      "outage_type": "SCHEDULED",
+      "area_id": 185,
+      "details": "KPLC has planned an outage in or close to your area Bypass Kamakis, Greenspot, Versity Ville on 2025-08-14 in the time 9.00 A.M. - 5.00 P.M.\n Details: Gacharage Mkt, Part of Sunrise Est, Fairview, Clay Works, Bypass Logistics Exit 11, Kinstica, Bamboo Street, Quickmart 1 & 2, Navas SMMe, Galana Petrol, Shell Bypass, Bypass Corner, Part of Northland, Green Valley Est, Silicon Valley, Wisdom Towers & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1307,
+      "area": "Githurai",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.202836,
+          "lng": 36.9168615
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 934,
+          "message": "KPLC has planned an outage in or close to your area Bypass Kamakis, Greenspot, Versity Ville on 2025-08-14 in the time 9.00 A.M. - 5.00 P.M.\n Details: Gacharage Mkt, Part of Sunrise Est, Fairview, Clay Works, Bypass Logistics Exit 11, Kinstica, Bamboo Street, Quickmart 1 & 2, Navas SMMe, Galana Petrol, Shell Bypass, Bypass Corner, Part of Northland, Green Valley Est, Silicon Valley, Wisdom Towers & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-14",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 953,
+          "message": "KPLC has planned an outage in or close to your area Githurai on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Githurai 44 around Sonic, Zimmerman around Roysambu Pri Sch, Jacaranda Gardens & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 185,
+          "outage_date": "2025-08-19",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 915,
+      "outage_date": "2025-08-12",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1277,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 915,
+      "outage_date": "2025-08-12",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1277,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 899,
+      "outage_date": "2025-08-10",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1261,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 899,
+      "outage_date": "2025-08-10",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1261,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 906,
+      "outage_date": "2025-08-10",
+      "outage_type": "SCHEDULED",
+      "area_id": 1345,
+      "details": "KPLC has planned an outage in or close to your area Kachok on 2025-08-10 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Manyatta, Moja City, Total Nairobi Rd, Kachok, Rubis Kachok, Kisumu Poly & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1268,
+      "area": "Kondele",
+      "constituency": "Kisumu Central",
+      "county": "Kisumu",
+      "region": "Nyanza",
+      "outage_count": 1,
+      "match_type": "outage_area_message",
+      "matched_text": "KPLC has planned an outage in or close to your area Kachok on 2025-08-10 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Manyatta, Moja City, Total Nairobi Rd, Kachok, Rubis Kachok, Kisumu Poly & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "coordinates": {
+        "area": {
+          "lat": -0.08987790000000001,
+          "lng": 34.77743346014267
+        },
+        "region": {
+          "lat": -0.540052,
+          "lng": 34.488269167993266
+        },
+        "county": {
+          "lat": -0.197126,
+          "lng": 34.7778573178751
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 842,
+          "message": "KPLC has planned an outage in or close to your area Jumbo Mattress on 2025-07-27 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mega City Kachok, Nyalenda Railways, Total Petrol, CFAO Kachok, Nyamasaria, Rabuor, Jumbo Matress, West Kano Irrigation Scheme, Kadiju, Ahero, Makasembo Est, Kaloleni Est, Polyview, Prinias Hotel, Manyatta Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 1345,
+          "outage_date": "2025-07-27",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 906,
+          "message": "KPLC has planned an outage in or close to your area Kachok on 2025-08-10 in the time 8.00 A.M. \u2013 5.00 P.M.\n Details: Manyatta, Moja City, Total Nairobi Rd, Kachok, Rubis Kachok, Kisumu Poly & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 1345,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 941,
+          "message": "",
+          "area_id": 1345,
+          "outage_date": "2025-08-14",
+          "outage_type": "UNPLANNED"
+        }
+      ]
+    },
+    {
+      "ots_id": 914,
+      "outage_date": "2025-08-10",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1276,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 914,
+      "outage_date": "2025-08-10",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1276,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 864,
+      "outage_date": "2025-08-07",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1226,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 864,
+      "outage_date": "2025-08-07",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1226,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "outage_area_message",
+      "matched_text": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 864,
+      "outage_date": "2025-08-07",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1226,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 865,
+      "outage_date": "2025-08-07",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1227,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 865,
+      "outage_date": "2025-08-07",
+      "outage_type": "SCHEDULED",
+      "area_id": 141,
+      "details": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1227,
+      "area": "Kitisuru",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2403787,
+          "lng": 36.77103
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 864,
+          "message": "KPLC has planned an outage in or close to your area Waiyaki Way on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Mountain View Est, Kabete Technical Training Institute, N Market, Thiongo Rd, Whole of Kangemi, CMA, Kangemi Sch, Nairobi Water, Musa Gitau Rd, Part of Kaptagat Rd, Vet Lab, Chinese Factories, Sugar Board, KEVEVAPI, Qaribu Inn Hotel, Loresho Ridge, Loresho Spring Ests & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 865,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-07 in the time 9.00 A.M. - 5.00 P.M.\n Details: Qaribu Inn, Waterfront Garden Est, Loresho Ridge Est, Nacosti, Vetlab, Sugar Board, Loresho Springs Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-07",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 951,
+          "message": "KPLC has planned an outage in or close to your area Kitsuru on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Kinanda Rd, ISK, Kirawa Rd, Manga Garden, Kitsuru Forward, Tate Close, Serenity Spa, Mitini Est, Ngecha Est, Lake View Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 952,
+          "message": "KPLC has planned an outage in or close to your area Loresho on 2025-08-18 in the time 7.00 A.M. - 5.00 P.M.\n Details: Lower Kabete Rd up to Hillview Est, Loresho Ridge, Shanzu Rd, Nairobi Sch, Kibagare Way, Kyuna Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 141,
+          "outage_date": "2025-08-18",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 862,
+      "outage_date": "2025-08-05",
+      "outage_type": "SCHEDULED",
+      "area_id": 184,
+      "details": "KPLC has planned an outage in or close to your area Zimmerman on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Zimmerman, Githurai 44, Maziwa, Kamuthi Farmers, Kahawa West, Kamae & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1224,
+      "area": "Zimmerman",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.20485695,
+          "lng": 36.86018733187052
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 862,
+          "message": "KPLC has planned an outage in or close to your area Zimmerman on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Zimmerman, Githurai 44, Maziwa, Kamuthi Farmers, Kahawa West, Kamae & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 184,
+          "outage_date": "2025-08-05",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 862,
+      "outage_date": "2025-08-05",
+      "outage_type": "SCHEDULED",
+      "area_id": 184,
+      "details": "KPLC has planned an outage in or close to your area Zimmerman on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Zimmerman, Githurai 44, Maziwa, Kamuthi Farmers, Kahawa West, Kamae & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1224,
+      "area": "Zimmerman",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.20485695,
+          "lng": 36.86018733187052
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 862,
+          "message": "KPLC has planned an outage in or close to your area Zimmerman on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Zimmerman, Githurai 44, Maziwa, Kamuthi Farmers, Kahawa West, Kamae & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 184,
+          "outage_date": "2025-08-05",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 863,
+      "outage_date": "2025-08-05",
+      "outage_type": "SCHEDULED",
+      "area_id": 179,
+      "details": "KPLC has planned an outage in or close to your area Lavington on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Olenguruone Rd, Mageta Rd, Mugumo Rd, Lavington St/center, Isaac Gathanju, Narid Merali, Maaji Mazuri, Muhoyo Rd, Gitanga Rd, Jacaranda Rd, Vanga Rd, Msanduku Lane, Mbabzi Ave, Othaya Rd, Muthangari & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1225,
+      "area": "Kileleshwa",
+      "constituency": "Dagoretti North",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2767338,
+          "lng": 36.7879011
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 863,
+          "message": "KPLC has planned an outage in or close to your area Lavington on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Olenguruone Rd, Mageta Rd, Mugumo Rd, Lavington St/center, Isaac Gathanju, Narid Merali, Maaji Mazuri, Muhoyo Rd, Gitanga Rd, Jacaranda Rd, Vanga Rd, Msanduku Lane, Mbabzi Ave, Othaya Rd, Muthangari & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 179,
+          "outage_date": "2025-08-05",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 863,
+      "outage_date": "2025-08-05",
+      "outage_type": "SCHEDULED",
+      "area_id": 179,
+      "details": "KPLC has planned an outage in or close to your area Lavington on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Olenguruone Rd, Mageta Rd, Mugumo Rd, Lavington St/center, Isaac Gathanju, Narid Merali, Maaji Mazuri, Muhoyo Rd, Gitanga Rd, Jacaranda Rd, Vanga Rd, Msanduku Lane, Mbabzi Ave, Othaya Rd, Muthangari & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1225,
+      "area": "Kileleshwa",
+      "constituency": "Dagoretti North",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2767338,
+          "lng": 36.7879011
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 863,
+          "message": "KPLC has planned an outage in or close to your area Lavington on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Olenguruone Rd, Mageta Rd, Mugumo Rd, Lavington St/center, Isaac Gathanju, Narid Merali, Maaji Mazuri, Muhoyo Rd, Gitanga Rd, Jacaranda Rd, Vanga Rd, Msanduku Lane, Mbabzi Ave, Othaya Rd, Muthangari & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 179,
+          "outage_date": "2025-08-05",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 887,
+      "outage_date": "2025-08-05",
+      "outage_type": "SCHEDULED",
+      "area_id": 28,
+      "details": "KPLC has planned an outage in or close to your area Uhuru Gardens on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Uhuru Gardens, Best Electronics Mall, Red Cross Mombasa, Nairobi University Mombasa, AAR Healthcare, FIDA Kenya, Chloride Exide, Auto Express, Toyota Kenya, CFAO Mombasa, Dalaka Motors & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1249,
+      "area": "Tononoka",
+      "constituency": "Mvita",
+      "county": "Mombasa",
+      "region": "Coast",
+      "outage_count": 1,
+      "match_type": "outage_area_message",
+      "matched_text": "KPLC has planned an outage in or close to your area Uhuru Gardens on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Uhuru Gardens, Best Electronics Mall, Red Cross Mombasa, Nairobi University Mombasa, AAR Healthcare, FIDA Kenya, Chloride Exide, Auto Express, Toyota Kenya, CFAO Mombasa, Dalaka Motors & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "coordinates": {
+        "area": {
+          "lat": -4.0481114,
+          "lng": 39.6692482
+        },
+        "region": {
+          "lat": -2.4019905,
+          "lng": 39.7818661861604
+        },
+        "county": {
+          "lat": -4.03863355,
+          "lng": 39.64854757888357
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 786,
+          "message": "KPLC has planned an outage in or close to your area State House on 2025-07-24 in the time 9.00 A.M. - 5.00 P.M.\n Details: State House Mombasa and Mombasa Law Courts & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 28,
+          "outage_date": "2025-07-24",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 887,
+          "message": "KPLC has planned an outage in or close to your area Uhuru Gardens on 2025-08-05 in the time 9.00 A.M. - 5.00 P.M.\n Details: Uhuru Gardens, Best Electronics Mall, Red Cross Mombasa, Nairobi University Mombasa, AAR Healthcare, FIDA Kenya, Chloride Exide, Auto Express, Toyota Kenya, CFAO Mombasa, Dalaka Motors & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 28,
+          "outage_date": "2025-08-05",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 976,
+          "message": "KPLC has planned an outage in or close to your area Ronald Ngala on 2025-08-19 in the time 9.00 A.M. - 5.00 P.M.\n Details: Buxton, MM Shah, Railways Club, Bridge Hotel, Blooming Birds Academy, JCC Church, Shell Ronald Ngala, Naivas Tudor, High Life, Petro & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 28,
+          "outage_date": "2025-08-19",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 860,
+      "outage_date": "2025-08-02",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1222,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 860,
+      "outage_date": "2025-08-02",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1222,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 822,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1170,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 822,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1170,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 823,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1171,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 823,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1171,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "outage_area_message",
+      "matched_text": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 823,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1171,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 824,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1172,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 824,
+      "outage_date": "2025-07-31",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1172,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 819,
+      "outage_date": "2025-07-30",
+      "outage_type": "SCHEDULED",
+      "area_id": 181,
+      "details": "KPLC has planned an outage in or close to your area Argwings Kodhek Rd on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Kolloktok Rd, Methodist Guest House, Lions Lair Apartments, Part of Ole Dume, Daykio Apartments, Part of Argwings Kodhek, Pyramid Plaza, Elgon, Marakwet Rd, Muringa Rd, 3D Hotel, Jehovah Witness, Kevina School, Kulungu Rd, Hatari Security & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1167,
+      "area": "Kilimani",
+      "constituency": "Dagoretti North",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2874422,
+          "lng": 36.7845225
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 818,
+          "message": "KPLC has planned an outage in or close to your area Kikuyu Road on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Dagoretti Market, Dagoretti Children Home, Dagoretti Centre Shell, Gachui, Kiragu Primary, Pathenios, Part of Waithaka Shopping Centre, Quick Mart, Gitiba Makaburini, Part of Kikuyu Rd, Ruthimitu Mixed, And Girls Secondary, Wakorino Stage & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 819,
+          "message": "KPLC has planned an outage in or close to your area Argwings Kodhek Rd on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Kolloktok Rd, Methodist Guest House, Lions Lair Apartments, Part of Ole Dume, Daykio Apartments, Part of Argwings Kodhek, Pyramid Plaza, Elgon, Marakwet Rd, Muringa Rd, 3D Hotel, Jehovah Witness, Kevina School, Kulungu Rd, Hatari Security & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 819,
+      "outage_date": "2025-07-30",
+      "outage_type": "SCHEDULED",
+      "area_id": 181,
+      "details": "KPLC has planned an outage in or close to your area Argwings Kodhek Rd on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Kolloktok Rd, Methodist Guest House, Lions Lair Apartments, Part of Ole Dume, Daykio Apartments, Part of Argwings Kodhek, Pyramid Plaza, Elgon, Marakwet Rd, Muringa Rd, 3D Hotel, Jehovah Witness, Kevina School, Kulungu Rd, Hatari Security & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1167,
+      "area": "Kilimani",
+      "constituency": "Dagoretti North",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2874422,
+          "lng": 36.7845225
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 818,
+          "message": "KPLC has planned an outage in or close to your area Kikuyu Road on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Dagoretti Market, Dagoretti Children Home, Dagoretti Centre Shell, Gachui, Kiragu Primary, Pathenios, Part of Waithaka Shopping Centre, Quick Mart, Gitiba Makaburini, Part of Kikuyu Rd, Ruthimitu Mixed, And Girls Secondary, Wakorino Stage & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 819,
+          "message": "KPLC has planned an outage in or close to your area Argwings Kodhek Rd on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Kolloktok Rd, Methodist Guest House, Lions Lair Apartments, Part of Ole Dume, Daykio Apartments, Part of Argwings Kodhek, Pyramid Plaza, Elgon, Marakwet Rd, Muringa Rd, 3D Hotel, Jehovah Witness, Kevina School, Kulungu Rd, Hatari Security & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 820,
+      "outage_date": "2025-07-30",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1168,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 820,
+      "outage_date": "2025-07-30",
+      "outage_type": "SCHEDULED",
+      "area_id": 198,
+      "details": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1168,
+      "area": "Karen",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 9,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3429734999999998,
+          "lng": 36.726724164916284
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 820,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Westwood Park, Rubis Petrol Station, Ngong Daily Farm, Mwitu Estate, Part of Windy Ridge, Ngong View Estate, Kerarapon Road, KCB Training College, Karen Roses Farm, Total Petrol Station, Eagle Church, Former Shade Hotel, Shell Kerarapon, Karen Police, Tree Lane, Mutero PCEA Church & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 822,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M\n Details: Dagoretti Rd, Warai North, Warai South, Three D Lane, Miotoni, World Vision, Nandi Rd, Montessori Centre, Windy Ridge, Pepo Lane, Link Rd, Mdodo Lane, St Christopher International Sch & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 823,
+          "message": "KPLC has planned an outage in or close to your area Ngong Rd on 2025-07-31 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ngong Rd, Nairobi Baptist Church, Coptic Hospital, St. Nicholas Junior & Senior Sch, GOLF club, Muchai drive, China Center, Part of Rose Avenue, Argwings Kodhek Rd, George Padmore, Marcus Garvey, Kindaruma Rd, Kamburu Drive, Chalbi Place, Part of Chaka RD, Tigoni Rd, TIMAU Rd, Part of Kabarnet Rd, Nursing Council & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 860,
+          "message": "KPLC has planned an outage in or close to your area Karen on 2025-08-02 in the time 9.00 A.M. - 5.00 P.M.\n Details: Kwarara, Part of Ndege Rd, Bogani Rd, Kumbe Rd, Kuro Rd, Kasuku Close, Masai Lane, Ndege Gardens, Ndalat Rd, Langata South Rd, Bogani Park, Dempster & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 198,
+          "outage_date": "2025-08-02",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 821,
+      "outage_date": "2025-07-30",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1169,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 821,
+      "outage_date": "2025-07-30",
+      "outage_type": "SCHEDULED",
+      "area_id": 140,
+      "details": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1169,
+      "area": "Parklands/Highridge",
+      "constituency": "Westlands",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 10,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.251796,
+          "lng": 36.8185479
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 821,
+          "message": "KPLC has planned an outage in or close to your area Westlands on 2025-07-30 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Matundu lane, Part of School Lane, Clarence Hotel & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 824,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-07-31 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Kusi Lane, 2nd Parklands, Msanaka Rd, Ndovu Ahmed Rd, Bulema Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-07-31",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 899,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. - 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, Mathenge, Ring Rd, Eldama Ravine Rd, Kuji Lane, Suriwa Rd, Ngao Rd, Ibrahim Rd, Shivachi Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 914,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-10 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Limuru Rd, 1st, 2nd & 3rd Parklands, General Mathenge Rd, Eldama Ravine Rd, Kusi Lane, Suswa Rd, Ngao Rd, Jaraiam Rd, Sivacha Rd, Mpaka Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-10",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 915,
+          "message": "KPLC has planned an outage in or close to your area Parklands on 2025-08-12 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Parklands Rd, Ojijo Rd, Wambugu Rd, Mutithi Rd & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 140,
+          "outage_date": "2025-08-12",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 817,
+      "outage_date": "2025-07-29",
+      "outage_type": "SCHEDULED",
+      "area_id": 205,
+      "details": "KPLC has planned an outage in or close to your area Kibera on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Hazina Co-op Credit Sacco, Sudan Embassy, Kenwood Gardens, Part of Kabarnet Rd, Part of Kibera Drive, 9 Planets Est, Huduma Center, DC's Office Kibra, Makina B, Makongeni, Part of Kisumu Ndogo, Kibera Law Courts, Jamia Mosque, Kichinjo, Lindi, Laini Saba, Mashimoni pri, Kambi Muru, Sunday studio & adjacent customer. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1165,
+      "area": "Sarangombe",
+      "constituency": "Kibra",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.313439,
+          "lng": 36.7798423
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 817,
+          "message": "KPLC has planned an outage in or close to your area Kibera on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Hazina Co-op Credit Sacco, Sudan Embassy, Kenwood Gardens, Part of Kabarnet Rd, Part of Kibera Drive, 9 Planets Est, Huduma Center, DC's Office Kibra, Makina B, Makongeni, Part of Kisumu Ndogo, Kibera Law Courts, Jamia Mosque, Kichinjo, Lindi, Laini Saba, Mashimoni pri, Kambi Muru, Sunday studio & adjacent customer. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 205,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 817,
+      "outage_date": "2025-07-29",
+      "outage_type": "SCHEDULED",
+      "area_id": 205,
+      "details": "KPLC has planned an outage in or close to your area Kibera on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Hazina Co-op Credit Sacco, Sudan Embassy, Kenwood Gardens, Part of Kabarnet Rd, Part of Kibera Drive, 9 Planets Est, Huduma Center, DC's Office Kibra, Makina B, Makongeni, Part of Kisumu Ndogo, Kibera Law Courts, Jamia Mosque, Kichinjo, Lindi, Laini Saba, Mashimoni pri, Kambi Muru, Sunday studio & adjacent customer. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1165,
+      "area": "Sarangombe",
+      "constituency": "Kibra",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.313439,
+          "lng": 36.7798423
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 817,
+          "message": "KPLC has planned an outage in or close to your area Kibera on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Hazina Co-op Credit Sacco, Sudan Embassy, Kenwood Gardens, Part of Kabarnet Rd, Part of Kibera Drive, 9 Planets Est, Huduma Center, DC's Office Kibra, Makina B, Makongeni, Part of Kisumu Ndogo, Kibera Law Courts, Jamia Mosque, Kichinjo, Lindi, Laini Saba, Mashimoni pri, Kambi Muru, Sunday studio & adjacent customer. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 205,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 818,
+      "outage_date": "2025-07-29",
+      "outage_type": "SCHEDULED",
+      "area_id": 181,
+      "details": "KPLC has planned an outage in or close to your area Kikuyu Road on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Dagoretti Market, Dagoretti Children Home, Dagoretti Centre Shell, Gachui, Kiragu Primary, Pathenios, Part of Waithaka Shopping Centre, Quick Mart, Gitiba Makaburini, Part of Kikuyu Rd, Ruthimitu Mixed, And Girls Secondary, Wakorino Stage & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1166,
+      "area": "Kilimani",
+      "constituency": "Dagoretti North",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2874422,
+          "lng": 36.7845225
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 818,
+          "message": "KPLC has planned an outage in or close to your area Kikuyu Road on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Dagoretti Market, Dagoretti Children Home, Dagoretti Centre Shell, Gachui, Kiragu Primary, Pathenios, Part of Waithaka Shopping Centre, Quick Mart, Gitiba Makaburini, Part of Kikuyu Rd, Ruthimitu Mixed, And Girls Secondary, Wakorino Stage & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 819,
+          "message": "KPLC has planned an outage in or close to your area Argwings Kodhek Rd on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Kolloktok Rd, Methodist Guest House, Lions Lair Apartments, Part of Ole Dume, Daykio Apartments, Part of Argwings Kodhek, Pyramid Plaza, Elgon, Marakwet Rd, Muringa Rd, 3D Hotel, Jehovah Witness, Kevina School, Kulungu Rd, Hatari Security & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 818,
+      "outage_date": "2025-07-29",
+      "outage_type": "SCHEDULED",
+      "area_id": 181,
+      "details": "KPLC has planned an outage in or close to your area Kikuyu Road on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Dagoretti Market, Dagoretti Children Home, Dagoretti Centre Shell, Gachui, Kiragu Primary, Pathenios, Part of Waithaka Shopping Centre, Quick Mart, Gitiba Makaburini, Part of Kikuyu Rd, Ruthimitu Mixed, And Girls Secondary, Wakorino Stage & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1166,
+      "area": "Kilimani",
+      "constituency": "Dagoretti North",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.2874422,
+          "lng": 36.7845225
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 818,
+          "message": "KPLC has planned an outage in or close to your area Kikuyu Road on 2025-07-29 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Dagoretti Market, Dagoretti Children Home, Dagoretti Centre Shell, Gachui, Kiragu Primary, Pathenios, Part of Waithaka Shopping Centre, Quick Mart, Gitiba Makaburini, Part of Kikuyu Rd, Ruthimitu Mixed, And Girls Secondary, Wakorino Stage & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 819,
+          "message": "KPLC has planned an outage in or close to your area Argwings Kodhek Rd on 2025-07-30 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Kolloktok Rd, Methodist Guest House, Lions Lair Apartments, Part of Ole Dume, Daykio Apartments, Part of Argwings Kodhek, Pyramid Plaza, Elgon, Marakwet Rd, Muringa Rd, 3D Hotel, Jehovah Witness, Kevina School, Kulungu Rd, Hatari Security & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 181,
+          "outage_date": "2025-07-30",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 825,
+      "outage_date": "2025-07-29",
+      "outage_type": "SCHEDULED",
+      "area_id": 188,
+      "details": "KPLC has planned an outage in or close to your area Jacaranda on 2025-07-29 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Part of Donholm Ph8, Shell Petrol station, Greenspan Mall, Happy Land Sch, Greenspan Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1173,
+      "area": "Roysambu",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.21057605,
+          "lng": 36.87946566025626
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 825,
+          "message": "KPLC has planned an outage in or close to your area Jacaranda on 2025-07-29 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Part of Donholm Ph8, Shell Petrol station, Greenspan Mall, Happy Land Sch, Greenspan Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 954,
+          "message": "KPLC has planned an outage in or close to your area Kamumbi on 2025-08-20 in the time 9.00 A.M. - 5.00 P.M.\n Details: Whole of Kamumbi & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-08-20",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 825,
+      "outage_date": "2025-07-29",
+      "outage_type": "SCHEDULED",
+      "area_id": 188,
+      "details": "KPLC has planned an outage in or close to your area Jacaranda on 2025-07-29 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Part of Donholm Ph8, Shell Petrol station, Greenspan Mall, Happy Land Sch, Greenspan Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1173,
+      "area": "Roysambu",
+      "constituency": "Roysambu",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 4,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.21057605,
+          "lng": 36.87946566025626
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 825,
+          "message": "KPLC has planned an outage in or close to your area Jacaranda on 2025-07-29 in the time 9.00A.M. \u2013 5.00 P.M.\n Details: Part of Donholm Ph8, Shell Petrol station, Greenspan Mall, Happy Land Sch, Greenspan Est & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-07-29",
+          "outage_type": "SCHEDULED"
+        },
+        {
+          "ots_id": 954,
+          "message": "KPLC has planned an outage in or close to your area Kamumbi on 2025-08-20 in the time 9.00 A.M. - 5.00 P.M.\n Details: Whole of Kamumbi & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 188,
+          "outage_date": "2025-08-20",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 816,
+      "outage_date": "2025-07-26",
+      "outage_type": "SCHEDULED",
+      "area_id": 200,
+      "details": "KPLC has planned an outage in or close to your area South C on 2025-07-26 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ole Shapara Rd, M.O.W, Belleview Hosp, Naivas South C, KMA Est, Al Mubarak Est, South End Est, KIRDI, Boma Hotel, Manyoya Ph. 4 Est, Ministry of Energy (KAWI) House, Rural Electrification & Renewable Energy, Amana Est, MUA University, Kennedy Omondi Oyoo, Muhoho avenue & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1164,
+      "area": "South-C",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "county_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3188367,
+          "lng": 36.8278221
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 816,
+          "message": "KPLC has planned an outage in or close to your area South C on 2025-07-26 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ole Shapara Rd, M.O.W, Belleview Hosp, Naivas South C, KMA Est, Al Mubarak Est, South End Est, KIRDI, Boma Hotel, Manyoya Ph. 4 Est, Ministry of Energy (KAWI) House, Rural Electrification & Renewable Energy, Amana Est, MUA University, Kennedy Omondi Oyoo, Muhoho avenue & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 200,
+          "outage_date": "2025-07-26",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": 816,
+      "outage_date": "2025-07-26",
+      "outage_type": "SCHEDULED",
+      "area_id": 200,
+      "details": "KPLC has planned an outage in or close to your area South C on 2025-07-26 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ole Shapara Rd, M.O.W, Belleview Hosp, Naivas South C, KMA Est, Al Mubarak Est, South End Est, KIRDI, Boma Hotel, Manyoya Ph. 4 Est, Ministry of Energy (KAWI) House, Rural Electrification & Renewable Energy, Amana Est, MUA University, Kennedy Omondi Oyoo, Muhoho avenue & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+      "oct_id": 1164,
+      "area": "South-C",
+      "constituency": "Langata",
+      "county": "Nairobi",
+      "region": "Nairobi",
+      "outage_count": 2,
+      "match_type": "region_name",
+      "matched_text": "Nairobi",
+      "coordinates": {
+        "area": {
+          "lat": -1.3188367,
+          "lng": 36.8278221
+        },
+        "region": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        },
+        "county": {
+          "lat": -1.3026148499999999,
+          "lng": 36.82884201813725
+        }
+      },
+      "all_outages": [
+        {
+          "ots_id": 816,
+          "message": "KPLC has planned an outage in or close to your area South C on 2025-07-26 in the time 9.00 A.M. \u2013 5.00 P.M.\n Details: Part of Ole Shapara Rd, M.O.W, Belleview Hosp, Naivas South C, KMA Est, Al Mubarak Est, South End Est, KIRDI, Boma Hotel, Manyoya Ph. 4 Est, Ministry of Energy (KAWI) House, Rural Electrification & Renewable Energy, Amana Est, MUA University, Kennedy Omondi Oyoo, Muhoho avenue & adjacent customers. \n https://nijulishe.co.ke/outages/map",
+          "area_id": 200,
+          "outage_date": "2025-07-26",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": -948,
+      "outage_date": "2025-08-06",
+      "outage_type": "SCHEDULED",
+      "area_id": null,
+      "details": "{\"Technoheels, Kingsun, Inkito, Nandorli, Enchoroi &amp; adjacent customers.\"}",
+      "oct_id": null,
+      "area": "Isinya",
+      "constituency": null,
+      "county": "{Kajiado}",
+      "region": "{Nairobi}",
+      "outage_count": 1,
+      "match_type": "failed_outage",
+      "matched_text": "Isinya",
+      "coordinates": {
+        "area": null,
+        "region": null,
+        "county": null
+      },
+      "all_outages": [
+        {
+          "ots_id": -948,
+          "message": "{\"Technoheels, Kingsun, Inkito, Nandorli, Enchoroi &amp; adjacent customers.\"}",
+          "area_id": null,
+          "outage_date": "2025-08-06",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    },
+    {
+      "ots_id": -1017,
+      "outage_date": "2025-08-19",
+      "outage_type": "SCHEDULED",
+      "area_id": null,
+      "details": "{\"Kamau Muigai, Chuka Village, Mukomo Pri, Kenyatta's Resident, Githaruru, Gatundu High, Mararo Village, KPLC Offices, Gatundu Water, Trance Feeds, Mbunje, Gatundu Hosp, Gatundu Mkt, St. Jude Hosp, Muthiga Girls, Gatundu Technical, Mutunyi Mkt, Muthiga C/Fact, PCEA Marima, Ituru High, Mutungurumbi High, 2010 Village, Gathece, Warirwangi Mkt, Karabuini Village, Kamunyu A &amp; B Village, Githuya Village &amp; adjacent customers.\"}",
+      "oct_id": null,
+      "area": "Gatundu",
+      "constituency": null,
+      "county": "{Nairobi}",
+      "region": "{Nairobi}",
+      "outage_count": 1,
+      "match_type": "failed_outage",
+      "matched_text": "Gatundu",
+      "coordinates": {
+        "area": null,
+        "region": null,
+        "county": null
+      },
+      "all_outages": [
+        {
+          "ots_id": -1017,
+          "message": "{\"Kamau Muigai, Chuka Village, Mukomo Pri, Kenyatta's Resident, Githaruru, Gatundu High, Mararo Village, KPLC Offices, Gatundu Water, Trance Feeds, Mbunje, Gatundu Hosp, Gatundu Mkt, St. Jude Hosp, Muthiga Girls, Gatundu Technical, Mutunyi Mkt, Muthiga C/Fact, PCEA Marima, Ituru High, Mutungurumbi High, 2010 Village, Gathece, Warirwangi Mkt, Karabuini Village, Kamunyu A &amp; B Village, Githuya Village &amp; adjacent customers.\"}",
+          "area_id": null,
+          "outage_date": "2025-08-19",
+          "outage_type": "SCHEDULED"
+        }
+      ]
+    }
+  ],
+  "source": "api"
+}

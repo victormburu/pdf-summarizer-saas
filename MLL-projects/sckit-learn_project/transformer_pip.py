@@ -53,15 +53,14 @@ for reg in model:
 
 #split dataset into 80% train 20% testing 
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
+    X, y, test_size=0.4, random_state=1
 )
 cv_scores = cross_val_score(model_pipeline, X_train, y_train, cv=5, scoring='r2')
 #fit the pipeline on training data
 model_pipeline.fit(X_train, y_train)
 
 #make predictions
-y_pred =model_pipeline.predict(X_test)
-
+y_pred =model_pipeline.predict(X_test)   
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 mae = mean_absolute_error(y_test, y_pred)
